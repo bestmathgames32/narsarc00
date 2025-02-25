@@ -1,1 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>*NARS ARC*</title>
+    <style>
+      a {
+        /* ... other styles ... */
+        color: #000000; /* Black text */
+        /* ... other styles ... */
+      }
+        body {
+            font-family: monospace;
+            background-color:  #000000 ;
+            color: #39ff14;
+            text-align: center;
+            padding: 20px;
+        }
+        pre {
+            background-color: #000000;
+            color: #39ff14;
+            padding: 20px;
+            border-radius: 5px;
+            overflow: auto;
+            display: inline-block;
+        }
+        .button-container { /* New class for the container */
+            display: flex;
+            justify-content: center; /* Center the buttons */
+        }
+        a {
+            margin: 10px; /* Add some space between buttons */
+            padding: 10px 20px; /* Add padding to the buttons */
+            background-color: #39ff14; /* Green background */
+            color: #000000; /* Black text */
+            text-decoration: none; /* Remove underline */
+            border-radius: 5px; /* Round the corners */
+        }
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+    </style>
+</head>
+<body>
+    <h1>USE AT YOUR OWN RISK</h1>
+    <pre>                                  ▒▒                                
+                                    ▓▓▒▒                                
+                                  ▒▒░░▒▒▓▓                              
+                                ░░░░▓▓▒▒░░▒▒                            
+                                ▒▒▒▒░░░░▓▓▒▒                            
+                            ▒▒▒▒▒▒▒▒░░░░░░░░▒▒▓▓                        
+                          ░░░░░░░░▒▒░░░░░░░░░░░░▒▒                      
+                            ░░▓▓░░▓▓▒▒░░▓▓░░██░░                        
+                              ░░▒▒▓▓░░░░██░░▓▓                          
+                                ▓▓▓▓░░░░▓▓▒▒░░                          
+                                ▓▓▒▒░░░░▒▒▒▒                            
+                                ▓▓▒▒░░░░▒▒██                            
+                                ▒▒▒▒░░░░▒▒░░                            
+                                ▒▒▒▒░░░░▒▒▒▒                            
+              ░░░░              ▒▒▒▒░░░░▓▓▓▓              ░░▒▒░░        
+              ▓▓░░              ▒▒▒▒▓▓▓▓▓▓▒▒              ▒▒▒▒▓▓        
+              ▒▒░░░░            ▒▒▓▓▒▒▒▒██▒▒            ▒▒▓▓▒▒▓▓        
+          ▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒▒▒▒▒▒██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▓▓▒▒▓▓░░    
+        ▓▓▒▒▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒▒░░░░▒▒▒▒██▓▓▒▒▓▓▓▓▓▓▒▒▒▒▒▒▓▓▒▒▓▓░░  
+    ░░▓▓▒▒▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▓▓░░░░░░░░██▓▓░░░░░░▒▒▒▒▒▒▒▒▒▒▓▓▓▓▒▒▓▓▒▒
+    ▒▒▒▒▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓░░░░░░░░▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓
+      ░░▓▓░░▒▒▓▓░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒░░░░▒▒██▓▓░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒  
+        ░░▓▓░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓██▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒▒▓▓▒▒    
+            ▒▒▒▒▒▒▒▒▒▒░░        ▓▓▓▓████▒▒██        ░░▒▒▓▓▓▓▒▒▒▒▒▒      
+            ░░▓▓▒▒              ▓▓▓▓▓▓▓▓▓▓▓▓              ▒▒▒▒▓▓        
+              ▒▒░░              ▓▓▒▒▓▓██░░▓▓              ░░▒▒░░        
+                                ▒▒▒▒▒▒▒▒░░▓▓                            
+                                ▒▒░░▒▒▒▒░░▓▓░░                          
+                                ▒▒░░▒▒▒▒░░░░░░                          
+                                ▒▒░░▒▒▒▒░░▓▓                            
+                                ▒▒░░░░▒▒░░▓▓▒▒                          
+                                ▒▒░░░░░░░░▓▓▒▒                          
+                                ▒▒░░░░░░░░▓▓▓▓                          
+                                ▒▒░░░░░░░░▓▓▓▓                          
+                              ░░▒▒░░░░░░░░██▓▓                          
+                              ▒▒▒▒░░░░░░░░██▓▓                          
+                              ▒▒▒▒░░░░░░░░██▒▒                          
+                              ▒▒▒▒░░░░░░░░██▓▓                          
+                              ▒▒▒▒░░░░░░░░▓▓▒▒                          
+                              ▒▒▓▓░░░░░░░░▓▓░░                          
+                              ▒▒▒▒░░░░░░░░▒▒░░                          
+                              ▒▒▒▒░░░░░░░░▒▒░░                          
+                              ▒▒▒▒░░░░░░░░▒▒░░                          
+                              ▒▒▒▒░░░░░░░░▒▒░░░░                        
+                              ░░▒▒░░░░░░░░░░░░░░                        
+                            ▒▒▒▒▒▒░░░░░░░░░░▓▓▓▓                        
+                            ▒▒▒▒░░░░░░░░░░░░██▓▓                        
+                            ░░▒▒▒▒░░░░░░░░░░▓▓▓▓                        
+                              ▓▓▓▓░░░░░░░░██▒▒                          
+                              ░░░░▓▓░░░░██░░▓▓                          
+                                ▒▒░░██▓▓░░▓▓                            
+                                  ▓▓▒▒▓▓▒▒                              
+                                    ▒▒▒▒░░                              
+                                      ▒▒                                
+</pre>
+    <pre>ooooo      ooo       .o.       ooooooooo.    .oooooo..o            .o.       ooooooooo.     .oooooo.        oooooo     oooo   .oooo.   
+    `888b.     `8'      .888.      `888   `Y88. d8P'    `Y8           .888.      `888   `Y88.  d8P'  `Y8b        `888.     .8'  .dP""Y88b  
+     8 `88b.    8      .8"888.      888   .d88' Y88bo.               .8"888.      888   .d88' 888                 `888.   .8'         ]8P' 
+     8   `88b.  8     .8' `888.     888ooo88P'   `"Y8888o.          .8' `888.     888ooo88P'  888                  `888. .8'        <88b.  
+     8     `88b.8    .88ooo8888.    888`88b.         `"Y88b        .88ooo8888.    888`88b.    888                   `888.8'          `88b. 
+     8       `888   .8'     `888.   888  `88b.  oo     .d8P       .8'     `888.   888  `88b.  `88b    ooo            `888'      o.   .88P  
+    o8o        `8  o88o     o8888o o888o  o888o 8""88888P'       o88o     o8888o o888o  o888o  `Y8bood8P'             `8'       `8bd88P'   
 
+
+</pre>
+  <P>Just a link hub, NARS ARC 003</P>
+    <P>left click on the buttons and click "open in new tab" to access them.</P>
+
+
+    <div class="button-container">
+    <a href="/1v1lol/" class="game-button">1V1.LOL</a>
+</div>
+
+<style>
+.button-container {
+    display: flex;
+    gap: 10px;
+}
+
+.game-button {
+    text-decoration: none;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.game-button:hover {
+    background-color: #0056b3;
+}
+</style>
+
+    
+</body>
+</html>
